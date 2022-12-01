@@ -1,3 +1,8 @@
+# First Of Everyting
+
+This repo is based on https://github.com/cnrv/fpga-rocket-chip, and added JTAG interface for the SOC.
+As it is already merged into https://github.com/cnrv/fpga-rocket-chip, please go to there to get latest codes.
+
 # Step-by-step Guide of Booting linux on a Rocket-chip SoC on Nexys4ddr
 
 ### STEPS OVERVIEW
